@@ -18,6 +18,13 @@ body {
 a {
   text-decoration: none;
 }
+input,
+textarea,
+select,
+button {
+  font-family: inherit;
+  font-size: inherit;
+}
 .container {
   width: 1170px;
   /* khi màn hình nhỏ hơn 1170px thì có space 2 bên 48px */
